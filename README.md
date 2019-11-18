@@ -1,7 +1,7 @@
 # hello-world
 
 
-Hi Humans!
+Hi Humans! :)
 
 
 print("Hello World")
